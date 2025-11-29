@@ -1,8 +1,4 @@
-# Redis Learning Environment
 
-A comprehensive Redis learning environment with Docker, Redis Insight dashboard, and practical examples from simple to complex data operations.
-
-## Quick Start
 
 ### 1. Start Redis and Redis Insight
 ```bash
